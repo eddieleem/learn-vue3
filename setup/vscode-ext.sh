@@ -1,0 +1,11 @@
+code --install-extension andys8.jest-snippets
+code --install-extension christian-kohler.path-intellisense
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension ishiyama.vue-autoimport
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension octref.vetur
+code --install-extension Orta.vscode-jest
+code --install-extension TabNine.tabnine-vscode
+code --install-extension VisualStudioExptTeam.vscodeintellicode
